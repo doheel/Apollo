@@ -2,8 +2,6 @@
 Jeu développé en Html/Css/Html
 
 
-
-
 Reponses : 
 Niveau 1: Avancer 21
 Niveau 2: Avancer 21 tourner a gauche avancer 17
